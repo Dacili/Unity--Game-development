@@ -3,3 +3,4 @@ Kreiranje igrice čiji je cilj da igrač pronađe predmete u kući. Rang lista p
 
 # Unity - Game development
 The game in which the user is looking for hidden objects. When the user finds all hidden objects that is the end of the game. 
+![alt text](https://github.com/Dacili/Unity-Kreiranje-igrice/blob/master/ispod%20jastuka.png)
